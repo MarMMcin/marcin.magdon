@@ -1,0 +1,45 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 20px;
+  width: 100vw;
+  background-color: #222222;
+  height: 4vh;
+  font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #edf0f1;
+
+  /* color: rgba(249, 212, 125, 1); */
+}
+.fab {
+  font-size: 20px;
+}
+i {
+  padding-left: 20px;
+  cursor: pointer;
+}
+a {
+  color: #edf0f1;
+}
+a:hover {
+  color: rgba(249, 212, 125, 1);
+}
+
+@media (max-width: 767px) {
+  .footer {
+    font-size: 1.4vh;
+  }
+  i {
+    padding-left: 10px;
+  }
+  .fab {
+    font-size: 1.4vh;
+  }
+}

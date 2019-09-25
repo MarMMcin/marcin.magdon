@@ -1,0 +1,261 @@
+body {
+  background-color: rgba(44, 44, 44);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.all {
+  max-width: 100vw;
+
+  max-height: 100vh;
+  flex-basis: 10vh;
+  text-align: center;
+  line-height: 10vh;
+}
+.test {
+  font-size: 5vh;
+  padding-top: 16vh;
+  color: rgba(249, 212, 125, 1);
+  text-align: center;
+  font-family: "montserrat", sans-serif;
+}
+.test1 {
+  font-size: 2.3vh;
+  color: #dddddd;
+  text-align: center;
+  font-family: "montserrat", sans-serif;
+
+  padding-top: 5vh;
+}
+.skils_div {
+  padding-top: 2vw;
+  padding-left: 26%;
+  padding-right: 26%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* align-content: space-around; */
+}
+.circle {
+  /* flex-basis: 33%; */
+  /* display: flex; */
+  background-color: #dddddd;
+  max-width: 50%;
+  max-height: 50%;
+  width: 20vh;
+  height: 20vh;
+  position: relative;
+
+  border-radius: 50%;
+  margin-top: 2vh;
+  transition: 0.2s ease;
+}
+.circle:hover {
+  transform: scale(1.1);
+}
+
+.logo {
+  position: relative;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 2385px) {
+  .skils_div {
+    padding-left: 30%;
+    padding-right: 30%;
+  }
+}
+@media (max-width: 2040px) {
+  .skils_div {
+    padding-left: 26%;
+    padding-right: 26%;
+  }
+}
+@media (max-width: 1830px) {
+  .skils_div {
+    padding-left: 24%;
+    padding-right: 24%;
+  }
+}
+@media (max-width: 1746px) {
+  .skils_div {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+}
+@media (max-width: 1480px) {
+  .skils_div {
+    padding-left: 22%;
+    padding-right: 22%;
+  }
+  .circle {
+    max-width: 40%;
+    max-height: 40%;
+    width: 16vh;
+    height: 16vh;
+  }
+}
+@media (max-width: 1274px) {
+  .skils_div {
+    padding-left: 18%;
+    padding-right: 18%;
+  }
+  .circle {
+    max-width: 40%;
+    max-height: 40%;
+    width: 16vh;
+    height: 16vh;
+  }
+}
+@media (max-width: 1125px) {
+  .skils_div {
+    padding-left: 13%;
+    padding-right: 13%;
+  }
+  .circle {
+    max-width: 40%;
+    max-height: 40%;
+    width: 16vh;
+    height: 16vh;
+  }
+}
+@media (max-width: 945px) {
+  .skils_div {
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  .circle {
+    max-width: 40%;
+    max-height: 40%;
+    width: 16vh;
+    height: 16vh;
+  }
+}
+@media (max-width: 767px) {
+  .skils_div {
+    padding-left: 18%;
+    padding-right: 18%;
+  }
+  .circle {
+    min-width: 10vh;
+    min-height: 10vh;
+
+    width: 10vh;
+    height: 10vh;
+  }
+  .test {
+    padding-top: 9vh;
+  }
+}
+@media (max-width: 635px) {
+  .skils_div {
+    padding-left: 16%;
+    padding-right: 16%;
+  }
+  .circle {
+    min-width: 10vh;
+    min-height: 10vh;
+
+    width: 10vh;
+    height: 10vh;
+  }
+  .test {
+    padding-top: 9vh;
+  }
+}
+@media (max-width: 415px) {
+  .skils_div {
+    padding-left: 26%;
+    padding-right: 26%;
+  }
+  .circle {
+    min-width: 10vh;
+    min-height: 10vh;
+
+    width: 10vh;
+    height: 10vh;
+  }
+  .test {
+    padding-top: 9vh;
+  }
+}
+@media (max-width: 156px) {
+  .skils_div {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .circle {
+    min-width: 30%;
+    min-height: 30%;
+    max-width: 40%;
+    max-height: 40%;
+    width: 7vh;
+    height: 7vh;
+  }
+}
+/* @media (max-width: 3100px) 
+  .skils_div {
+    padding-left: 150vh;
+    padding-right: 150vh;
+  }
+}
+@media (max-width: 3030px) {
+  .skils_div {
+    padding-left: 100vh;
+    padding-right: 100vh;
+  }
+}
+@media (max-width: 2500px) {
+  .skils_div {
+    padding-left: 70vh;
+    padding-right: 70vh;
+  }
+}
+@media (max-width: 2500px) {
+  .skils_div {
+    padding-left: 70vh;
+    padding-right: 70vh;
+  }
+}
+@media (max-width: 2010px) {
+  .skils_div {
+    padding-left: 40vh;
+    padding-right: 40vh;
+  }
+}
+@media (max-width: 1920 max-height:1080) {
+  .skils_div {
+    padding-left: 60vh;
+    padding-right: 60vh;
+  }
+}
+
+@media (max-width: 1500px) {
+  .skils_div {
+    padding-left: 30vh;
+    padding-right: 30vh;
+  }
+}
+
+@media (max-width: 1100px) {
+  .skils_div {
+    padding-left: 20vh;
+    padding-right: 20vh;
+  }
+}
+
+@media (max-width: 900px) {
+  .skils_div {
+    padding-left: 10vh;
+    padding-right: 10vh;
+  }
+}
+@media (max-width: 700px) {
+  .skils_div {
+    padding: 0;
+  }
+} */
