@@ -30,8 +30,8 @@ body {
 }
 .skils_div {
   padding-top: 2vw;
-  padding-left: 26%;
-  padding-right: 26%;
+  padding-left: 24vw;
+  padding-right: 24vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -43,8 +43,8 @@ body {
   background-color: #dddddd;
   max-width: 50%;
   max-height: 50%;
-  width: 20vh;
-  height: 20vh;
+  width: 12vw;
+  height: 12vw;
   position: relative;
 
   border-radius: 50%;
@@ -63,10 +63,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
-@media (max-width: 2385px) {
+/* @media (max-width: 2385px) {
   .skils_div {
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 28%;
+    padding-right: 28%;
   }
 }
 @media (max-width: 2040px) {
@@ -77,8 +77,8 @@ body {
 }
 @media (max-width: 1830px) {
   .skils_div {
-    padding-left: 24%;
-    padding-right: 24%;
+    padding-left: 23%;
+    padding-right: 23%;
   }
 }
 @media (max-width: 1746px) {
@@ -89,8 +89,8 @@ body {
 }
 @media (max-width: 1480px) {
   .skils_div {
-    padding-left: 22%;
-    padding-right: 22%;
+    padding-left: 21%;
+    padding-right: 21%;
   }
   .circle {
     max-width: 40%;
@@ -101,8 +101,8 @@ body {
 }
 @media (max-width: 1274px) {
   .skils_div {
-    padding-left: 18%;
-    padding-right: 18%;
+    padding-left: 19%;
+    padding-right: 19%;
   }
   .circle {
     max-width: 40%;
@@ -113,32 +113,32 @@ body {
 }
 @media (max-width: 1125px) {
   .skils_div {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  .circle {
+    max-width: 40%;
+    max-height: 40%;
+    width: 13vh;
+    height: 13vh;
+  }
+}
+@media (max-width: 945px) {
+  .skils_div {
     padding-left: 13%;
     padding-right: 13%;
   }
   .circle {
     max-width: 40%;
     max-height: 40%;
-    width: 16vh;
-    height: 16vh;
+    width: 13vh;
+    height: 13vh;
   }
-}
-@media (max-width: 945px) {
-  .skils_div {
-    padding-left: 4%;
-    padding-right: 4%;
-  }
-  .circle {
-    max-width: 40%;
-    max-height: 40%;
-    width: 16vh;
-    height: 16vh;
-  }
-}
+} */
 @media (max-width: 767px) {
   .skils_div {
-    padding-left: 18%;
-    padding-right: 18%;
+    padding-left: 22%;
+    padding-right: 22%;
   }
   .circle {
     min-width: 10vh;
@@ -153,8 +153,8 @@ body {
 }
 @media (max-width: 635px) {
   .skils_div {
-    padding-left: 16%;
-    padding-right: 16%;
+    padding-left: 22%;
+    padding-right: 22%;
   }
   .circle {
     min-width: 10vh;

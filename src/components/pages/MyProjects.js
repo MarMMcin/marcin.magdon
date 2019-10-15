@@ -6,6 +6,7 @@ import bootstrap from "../../images/bootstrap.png";
 import weather from "../../images/weather.png";
 import lottery from "../../images/lottery.png";
 import rzeszow from "../../images/rzeszow.jpg";
+import movies from "../../images/movies.png";
 // import rzeszow from "../../images/estate.png";
 
 // import CountUp from "react-countup";
@@ -77,16 +78,22 @@ const MySkills = () => {
               <img className="img_inside" src={rzeszow} alt="" />
             </a>
             <p className="fanpage">
-              My fanpage (15 780 fallowers) and group (4567 active people) about
-              the history of my city
+              My fanpage (15 780 fallowers) and <br /> group (4567 active
+              people) about the history of Rzeszów
             </p>
           </div>
         </div>{" "}
         <div className="project_photos-6">
-          {" "}
           <div className="with_p">
-            <img className="img_inside" src={estate} alt="" />
-            <p>TEST</p>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://marmmcin.github.io/MoviesApp"
+            >
+              <img className="img_inside" src={movies} alt="" />
+            </a>
+            <p>React, Redux, Router, JSON, Bootstrap </p> <br />
+            <br />
           </div>
         </div>
       </div>

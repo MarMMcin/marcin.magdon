@@ -32,5 +32,20 @@ p {
   cursor: pointer;
 }
 .img_inside:hover {
-  transform: scale(1.2);
+  transform: scale(1.05);
+}
+@media (max-width: 1024px) {
+  .img_inside {
+    padding: 10px;
+    width: 400px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 769px) {
+  .img_inside {
+    padding: 20px;
+    width: 300px;
+    height: 150px;
+  }
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import "./../styles/MySkills.css";
 import logocss from "../../images/css3.svg";
-import github from "../../images/github.svg";
+import github from "../../images/redux.png";
 import html5 from "../../images/html5.svg";
 import javascript from "../../images/javascript.svg";
 import nodejs from "../../images/nodejs.svg";
