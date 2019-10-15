@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3078175.chunk.css",
+    "main.js": "/static/js/main.9359a97b.chunk.js",
+    "main.js.map": "/static/js/main.9359a97b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.3a6ccb66.js",
+    "runtime~main.js.map": "/static/js/runtime~main.3a6ccb66.js.map",
+    "static/js/2.0d1721a2.chunk.js": "/static/js/2.0d1721a2.chunk.js",
+    "static/js/2.0d1721a2.chunk.js.map": "/static/js/2.0d1721a2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d81e68e45e71b2b5d9a262deb72dce8a.js": "/precache-manifest.d81e68e45e71b2b5d9a262deb72dce8a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b3078175.chunk.css.map": "/static/css/main.b3078175.chunk.css.map",
+    "static/media/bootstrap.png": "/static/media/bootstrap.3830b085.png",
+    "static/media/css3.svg": "/static/media/css3.3707da3c.svg",
+    "static/media/estate.png": "/static/media/estate.210489a8.png",
+    "static/media/html5.svg": "/static/media/html5.f0361c5e.svg",
+    "static/media/javascript.svg": "/static/media/javascript.61ed8b05.svg",
+    "static/media/lottery.png": "/static/media/lottery.67633a42.png",
+    "static/media/movies.png": "/static/media/movies.93ec1cb1.png",
+    "static/media/nodejs.svg": "/static/media/nodejs.a1231528.svg",
+    "static/media/react.svg": "/static/media/react.4009eef3.svg",
+    "static/media/reactrouter.svg": "/static/media/reactrouter.02419671.svg",
+    "static/media/redux.png": "/static/media/redux.b51d1861.png",
+    "static/media/rzeszow.jpg": "/static/media/rzeszow.3a2f051f.jpg",
+    "static/media/sass.svg": "/static/media/sass.b446ca5a.svg",
+    "static/media/weather.png": "/static/media/weather.18340491.png"
+  }
+}
