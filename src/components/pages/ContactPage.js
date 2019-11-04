@@ -44,7 +44,7 @@ class ContactPage extends React.Component {
             <textarea
               value={this.state.value}
               onChange={this.handleChange}
-              placeholder="Wpisz wiadomość..."
+              placeholder="type a message..."
             />
             <div className="buttonDiv">
               <button>Send</button>

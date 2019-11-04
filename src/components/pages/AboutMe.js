@@ -6,13 +6,13 @@ const AboutMe = () => {
     <div className="homepage">
       <h1>Hello I'm Marcin Magdoń.</h1>
       <h2>
-        &emsp; My name is Marcin, I'm front-end developer from Rzeszów.
-        <br></br> I've always liked to create pages. I made the first page on
-        the IT classes in junior high school. After school, I started studying
-        spatial planning because of my passions and interests, but unfortunately
-        it wasn't a good choice.<br></br>&emsp; After a few years break, I
-        returned to the front-end, and created several new positions in
-        completely different technologists
+        I'm front-end web developer from Rzeszów.<br></br> At the high school’s
+        IT classes I have created my first web design which developed my
+        interest and passion to build websites. After high school graduation I
+        have undertaken an university course in spatial planning to follow my
+        hobbies. After university graduation, I have returned to the front-end
+        web design and built several new positions in completely different
+        technologies.
       </h2>
     </div>
   );

@@ -9,7 +9,7 @@ const Footer = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/MarMMcin"
+          href="https://github.com/MarMMcin/marcin.magdon"
         >
           <i className="fab fa-github"></i>
         </a>

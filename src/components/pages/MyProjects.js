@@ -26,7 +26,16 @@ const MySkills = () => {
           >
             <img className="img_inside" src={estate} alt="" />
           </a>
-          <p>React, Router</p>
+          <p>
+            React, Router{" "}
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://github.com/MarMMcin/addadvert"
+            >
+              <i className="fab fa-github"></i>
+            </a>
+          </p>
         </div>
         <div className="project_photos-2">
           {" "}
@@ -38,7 +47,16 @@ const MySkills = () => {
             >
               <img className="img_inside" src={bootstrap} alt="" />
             </a>
-            <p>React, Router, Bootstrap</p>
+            <p>
+              React, Router, Bootstrap{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/MarMMcin/krzysztof-bootstrap"
+              >
+                <i className="fab fa-github"></i>
+              </a>
+            </p>
           </div>
         </div>
         <div className="project_photos-3">
@@ -51,7 +69,16 @@ const MySkills = () => {
             >
               <img className="img_inside" src={weather} alt="" />
             </a>
-            <p>React, JSON</p>
+            <p>
+              React, JSON{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/MarMMcin/weatherapp"
+              >
+                <i className="fab fa-github"></i>
+              </a>
+            </p>
           </div>
         </div>
         <div className="project_photos-4">
@@ -64,7 +91,16 @@ const MySkills = () => {
             >
               <img className="img_inside" src={lottery} alt="" />
             </a>
-            <p>Pure JavaScript</p>
+            <p>
+              Pure JavaScript{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/MarMMcin/lottery"
+              >
+                <i className="fab fa-github"></i>
+              </a>
+            </p>
           </div>
         </div>
         <div className="project_photos-5">
@@ -78,8 +114,15 @@ const MySkills = () => {
               <img className="img_inside" src={rzeszow} alt="" />
             </a>
             <p className="fanpage">
-              My fanpage (15 780 fallowers) and <br /> group (4567 active
-              people) about the history of Rzeszów
+              I am admin of 15 780 followers fanpage<br></br> and 5004 members
+              Facebook Group, both about the history of Rzeszów.
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.facebook.com/groups/178523919544167/"
+              >
+                <i className="fas fa-users"></i>
+              </a>
             </p>
           </div>
         </div>{" "}
@@ -92,7 +135,17 @@ const MySkills = () => {
             >
               <img className="img_inside" src={movies} alt="" />
             </a>
-            <p>React, Redux, Router, JSON, Bootstrap </p> <br />
+            <p>
+              React, Redux, Router, JSON, Bootstrap{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/MarMMcin/MoviesApp"
+              >
+                <i className="fab fa-github"></i>
+              </a>
+            </p>{" "}
+            <br />
             <br />
           </div>
         </div>
