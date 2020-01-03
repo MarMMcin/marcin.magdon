@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 
 const list = [
   { name: "About me", path: "/", exact: true },
-  { name: "My projects", path: "/products" },
+  { name: "My projects", path: "/projects" },
   { name: "My skills", path: "/skils" },
   { name: "Contact", path: "/contact" }
 ];

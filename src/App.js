@@ -4,7 +4,7 @@ import SideDrawer from "./components/SideDrawer/SideDrawer.js";
 import Backdrop from "./components/Backdrop/Backdrop";
 import Page from "./components/layouts/Page";
 import Footer from "./components/layouts/Footer";
-import "./App.css";
+
 import { HashRouter } from "react-router-dom";
 
 class App extends Component {
