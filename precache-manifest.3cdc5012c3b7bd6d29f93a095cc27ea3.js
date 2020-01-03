@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c426c1a221fcadb00a6fc88f185ce907",
+    "revision": "281b58d79154eb4435f71b91519fa589",
     "url": "/marcin.magdon/./index.html"
   },
   {
-    "revision": "525327bb5a58f0643ed4",
-    "url": "/marcin.magdon/./static/css/main.b3078175.chunk.css"
+    "revision": "5ce6b2d77fb9a9f6753d",
+    "url": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css"
   },
   {
-    "revision": "5bf16cd7fbe7adcb88b4",
-    "url": "/marcin.magdon/./static/js/2.0d1721a2.chunk.js"
+    "revision": "9e000d73e657c829da04",
+    "url": "/marcin.magdon/./static/js/2.7c2220df.chunk.js"
   },
   {
-    "revision": "525327bb5a58f0643ed4",
-    "url": "/marcin.magdon/./static/js/main.6445650f.chunk.js"
+    "revision": "5ce6b2d77fb9a9f6753d",
+    "url": "/marcin.magdon/./static/js/main.61337d9e.chunk.js"
   },
   {
     "revision": "2dcc4022a1e8d53e8709",
     "url": "/marcin.magdon/./static/js/runtime~main.c52b2107.js"
   },
   {
-    "revision": "3830b085eadb33d16dbe68a42c5e0ef0",
-    "url": "/marcin.magdon/./static/media/bootstrap.3830b085.png"
+    "revision": "f86c65e5d2b8f59bdb4c3b9281ead299",
+    "url": "/marcin.magdon/./static/media/bootstrap.f86c65e5.png"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
     "url": "/marcin.magdon/./static/media/css3.3707da3c.svg"
   },
   {
-    "revision": "210489a83b4552fee417d439d27ce3eb",
-    "url": "/marcin.magdon/./static/media/estate.210489a8.png"
+    "revision": "9b508a295d1dd58deeec01c9e04eb46c",
+    "url": "/marcin.magdon/./static/media/estate.9b508a29.png"
   },
   {
     "revision": "f0361c5e9bebc1c5647523db385641cf",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/media/javascript.61ed8b05.svg"
   },
   {
-    "revision": "67633a42e2f6419171f9102c07f3ac99",
-    "url": "/marcin.magdon/./static/media/lottery.67633a42.png"
+    "revision": "0c7a3c7d2c13ee98358d810970d41c39",
+    "url": "/marcin.magdon/./static/media/lottery.0c7a3c7d.png"
   },
   {
-    "revision": "93ec1cb113eaca9973d833ed29d004e7",
-    "url": "/marcin.magdon/./static/media/movies.93ec1cb1.png"
+    "revision": "c5e950a420b73faabc499721a8756f69",
+    "url": "/marcin.magdon/./static/media/movies.c5e950a4.png"
   },
   {
     "revision": "a123152868245dee71c441124a98ac3e",
@@ -64,15 +64,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/media/redux.b51d1861.png"
   },
   {
-    "revision": "3a2f051f4c7fe7037a9f303bc038a85a",
-    "url": "/marcin.magdon/./static/media/rzeszow.3a2f051f.jpg"
+    "revision": "76becd70aac7600a02b45f0e5272b5bc",
+    "url": "/marcin.magdon/./static/media/rzeszow.76becd70.jpg"
   },
   {
     "revision": "b446ca5a397c1ef6fb94cd02c4e94335",
     "url": "/marcin.magdon/./static/media/sass.b446ca5a.svg"
   },
   {
-    "revision": "183404919e07e9604aa040a059a72def",
-    "url": "/marcin.magdon/./static/media/weather.18340491.png"
+    "revision": "806c3f183118f488b46a051cf88a8fdc",
+    "url": "/marcin.magdon/./static/media/weather.806c3f18.png"
   }
 ]);
