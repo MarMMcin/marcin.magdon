@@ -12,8 +12,8 @@ const Container = styled.div`
   padding-right: 25vw;
   position: absolute;
   @media (max-width: 768px) {
-    padding-left: 35vw;
-    padding-right: 35vw;
+    padding-left: 25vw;
+    padding-right: 25vw;
   }
 `;
 

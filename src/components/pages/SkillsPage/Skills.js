@@ -13,10 +13,14 @@ const StyledDiv = styled.div`
   margin-top: 2vh;
   transition: 0.2s ease;
   position:position: absolute;
-
+  @media (max-width: 768px) {
+  width:20vw;
+  height:20vw;
+  }
   &:hover {
     transform: scale(1.1);
   }
+  
 `;
 const StyledImg = styled.img`
   position: relative;
