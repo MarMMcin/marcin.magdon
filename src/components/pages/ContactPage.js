@@ -20,6 +20,9 @@ const StyledTextArea = styled.textarea`
   min-height: 200px;
   margin: 20px 0;
   line-height: 1.6;
+  @media (max-width: 768px) {
+    font-size: 12px;
+  }
 `;
 const StyledButton = styled.button`
   padding: 18px 40px;
@@ -33,6 +36,10 @@ const StyledButton = styled.button`
   transition: all 0.3s ease 0s;
   &:hover {
     background-color: rgba(224, 190, 112, 0.8);
+  }
+  @media (max-width: 768px) {
+    font-size: 12px;
+    padding: 10px 20px;
   }
 `;
 

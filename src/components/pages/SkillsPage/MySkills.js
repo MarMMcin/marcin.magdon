@@ -8,8 +8,8 @@ const Container = styled.div`
   flex-wrap: wrap;
   justify-content: space-around;
   padding-top: 2vw;
-  padding-left: 23vw;
-  padding-right: 23vw;
+  padding-left: 25vw;
+  padding-right: 25vw;
   position: absolute;
   @media (max-width: 768px) {
     padding-left: 35vw;
