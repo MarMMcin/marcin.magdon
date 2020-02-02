@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0b1796448e7d2fcfdf34b9073375892",
+    "revision": "30e62e1741d64ee7ca80eaf07b39aef5",
     "url": "/marcin.magdon/./index.html"
   },
   {
-    "revision": "9eb324db76952eb1260d",
+    "revision": "7690f2432a0acbf46fe6",
     "url": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/js/2.7c2220df.chunk.js"
   },
   {
-    "revision": "9eb324db76952eb1260d",
-    "url": "/marcin.magdon/./static/js/main.93fe3706.chunk.js"
+    "revision": "7690f2432a0acbf46fe6",
+    "url": "/marcin.magdon/./static/js/main.70982ae7.chunk.js"
   },
   {
     "revision": "2dcc4022a1e8d53e8709",
     "url": "/marcin.magdon/./static/js/runtime~main.c52b2107.js"
   },
   {
-    "revision": "f86c65e5d2b8f59bdb4c3b9281ead299",
-    "url": "/marcin.magdon/./static/media/bootstrap.f86c65e5.png"
+    "revision": "560288954ef0bc0c32a672cfe2eef4c1",
+    "url": "/marcin.magdon/./static/media/bootstrap.56028895.png"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
