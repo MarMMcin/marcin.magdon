@@ -17,7 +17,7 @@ const ProjectsImg = [
     id: 201,
     img: bootstrap,
     alt: "bootstrap",
-    href: "https://marmmcin.github.io/krzysztof-bootstrap/#/",
+    href: "https://kbutryn.pl",
     text: "React, Router, Bootstrap"
   },
   {
