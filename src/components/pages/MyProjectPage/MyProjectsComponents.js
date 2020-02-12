@@ -38,7 +38,7 @@ const ProjectsImg = [
     id: 501,
     img: rzeszow,
     alt: "rzeszow",
-    href: "https://www.facebook.com/rzeszowwczoraj/",
+    href: "https://marmmcin.github.io/rzeszowwczoraj/#/",
     text: "React, Redux, Router, JSON, Bootstrap"
   },
   {
