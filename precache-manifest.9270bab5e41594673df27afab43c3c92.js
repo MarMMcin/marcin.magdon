@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30e62e1741d64ee7ca80eaf07b39aef5",
+    "revision": "1a24d4f0f4bb70aa5f654e5fe2da5ab9",
     "url": "/marcin.magdon/./index.html"
   },
   {
-    "revision": "7690f2432a0acbf46fe6",
+    "revision": "c39a543791656b503a19",
     "url": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/js/2.7c2220df.chunk.js"
   },
   {
-    "revision": "7690f2432a0acbf46fe6",
-    "url": "/marcin.magdon/./static/js/main.70982ae7.chunk.js"
+    "revision": "c39a543791656b503a19",
+    "url": "/marcin.magdon/./static/js/main.3fbc7609.chunk.js"
   },
   {
     "revision": "2dcc4022a1e8d53e8709",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/media/redux.b51d1861.png"
   },
   {
-    "revision": "76becd70aac7600a02b45f0e5272b5bc",
-    "url": "/marcin.magdon/./static/media/rzeszow.76becd70.jpg"
+    "revision": "3c78ce7bab1c5e4652f4d44e078ddca4",
+    "url": "/marcin.magdon/./static/media/rzeszow.3c78ce7b.jpg"
   },
   {
     "revision": "b446ca5a397c1ef6fb94cd02c4e94335",

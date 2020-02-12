@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css",
-    "main.js": "/marcin.magdon/./static/js/main.70982ae7.chunk.js",
-    "main.js.map": "/marcin.magdon/./static/js/main.70982ae7.chunk.js.map",
+    "main.js": "/marcin.magdon/./static/js/main.3fbc7609.chunk.js",
+    "main.js.map": "/marcin.magdon/./static/js/main.3fbc7609.chunk.js.map",
     "runtime~main.js": "/marcin.magdon/./static/js/runtime~main.c52b2107.js",
     "runtime~main.js.map": "/marcin.magdon/./static/js/runtime~main.c52b2107.js.map",
     "static/js/2.7c2220df.chunk.js": "/marcin.magdon/./static/js/2.7c2220df.chunk.js",
     "static/js/2.7c2220df.chunk.js.map": "/marcin.magdon/./static/js/2.7c2220df.chunk.js.map",
     "index.html": "/marcin.magdon/./index.html",
-    "precache-manifest.95688265ff626a594f591e088ee9afe9.js": "/marcin.magdon/./precache-manifest.95688265ff626a594f591e088ee9afe9.js",
+    "precache-manifest.9270bab5e41594673df27afab43c3c92.js": "/marcin.magdon/./precache-manifest.9270bab5e41594673df27afab43c3c92.js",
     "service-worker.js": "/marcin.magdon/./service-worker.js",
     "static/css/main.558ae7f6.chunk.css.map": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css.map",
     "static/media/bootstrap.png": "/marcin.magdon/./static/media/bootstrap.56028895.png",
@@ -22,7 +22,7 @@
     "static/media/react.svg": "/marcin.magdon/./static/media/react.4009eef3.svg",
     "static/media/reactrouter.svg": "/marcin.magdon/./static/media/reactrouter.02419671.svg",
     "static/media/redux.png": "/marcin.magdon/./static/media/redux.b51d1861.png",
-    "static/media/rzeszow.jpg": "/marcin.magdon/./static/media/rzeszow.76becd70.jpg",
+    "static/media/rzeszow.jpg": "/marcin.magdon/./static/media/rzeszow.3c78ce7b.jpg",
     "static/media/sass.svg": "/marcin.magdon/./static/media/sass.b446ca5a.svg",
     "static/media/weather.png": "/marcin.magdon/./static/media/weather.806c3f18.png"
   }
