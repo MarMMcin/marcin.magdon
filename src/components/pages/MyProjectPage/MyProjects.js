@@ -10,8 +10,8 @@ const Container = styled.div`
   justify-content: center;
   align-items: stretch;
   align-content: stretch;
-  padding-left: 22%;
-  padding-right: 22%;
+  padding-left: 19%;
+  padding-right: 19%;
   padding-top: 2%;
   @media (max-width: 1024px) {
     padding-left: 12%;

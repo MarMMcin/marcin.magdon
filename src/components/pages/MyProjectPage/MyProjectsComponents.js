@@ -4,16 +4,9 @@ import weather from "../../../images/weather.png";
 import lottery from "../../../images/lottery.png";
 import rzeszow from "../../../images/rzeszow.jpg";
 import movies from "../../../images/movies.png";
+import lukmet from "../../../images/lukmet.png";
 
 const ProjectsImg = [
-  {
-    id: 101,
-    img: estate,
-    alt: "estate",
-    href: "https://marmmcin.github.io/addadvert/#/",
-    text: "React, Router",
-    git: "https://github.com/MarMMcin/addadvert"
-  },
   {
     id: 201,
     img: bootstrap,
@@ -23,27 +16,19 @@ const ProjectsImg = [
     git: "https://github.com/MarMMcin/Kbutryn"
   },
   {
-    id: 301,
-    img: weather,
-    alt: "weather",
-    href: "https://marmmcin.github.io/weatherapp/",
-    text: "React, JSON",
-    git: "https://github.com/MarMMcin/weatherapp"
-  },
-  {
-    id: 401,
-    img: lottery,
-    alt: "lottery",
-    href: "https://marmmcin.github.io/lottery/",
-    text: "Pure JavaScript",
-    git: "https://github.com/MarMMcin/lottery"
+    id: 701,
+    img: lukmet,
+    alt: "Lukemt",
+    href: "https://marmmcin.github.io/Lukmet",
+    text: "React, Router,",
+    git: "https://github.com/MarMMcin/Lukmet"
   },
   {
     id: 501,
     img: rzeszow,
     alt: "rzeszow",
     href: "https://marmmcin.github.io/rzeszowwczoraj/#/",
-    text: "React, Redux, Router, JSON, Bootstrap",
+    text: "React, Router, JSON",
     git: "https://github.com/MarMMcin/rzeszowwczoraj"
   },
   {
@@ -53,6 +38,31 @@ const ProjectsImg = [
     href: "https://marmmcin.github.io/MoviesApp",
     text: "React, Redux, Router, JSON, Bootstrap",
     git: "https://github.com/MarMMcin/MoviesApp"
+  },
+  {
+    id: 401,
+    img: lottery,
+    alt: "lottery",
+    href: "https://marmmcin.github.io/lottery/",
+    text: "Pure JavaScript",
+    git: "https://github.com/MarMMcin/lottery"
+  },
+
+  {
+    id: 301,
+    img: weather,
+    alt: "weather",
+    href: "https://marmmcin.github.io/weatherapp/",
+    text: "React, JSON",
+    git: "https://github.com/MarMMcin/weatherapp"
+  },
+  {
+    id: 101,
+    img: estate,
+    alt: "estate",
+    href: "https://marmmcin.github.io/addadvert/#/",
+    text: "React, Router",
+    git: "https://github.com/MarMMcin/addadvert"
   }
 ];
 export default { ProjectsImg };
