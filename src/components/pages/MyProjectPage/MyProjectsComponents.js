@@ -11,42 +11,48 @@ const ProjectsImg = [
     img: estate,
     alt: "estate",
     href: "https://marmmcin.github.io/addadvert/#/",
-    text: "React, Router"
+    text: "React, Router",
+    git: "https://github.com/MarMMcin/addadvert"
   },
   {
     id: 201,
     img: bootstrap,
     alt: "bootstrap",
     href: "https://kbutryn.pl",
-    text: "React, Router, Bootstrap"
+    text: "React, Router, Bootstrap",
+    git: "https://github.com/MarMMcin/Kbutryn"
   },
   {
     id: 301,
     img: weather,
     alt: "weather",
     href: "https://marmmcin.github.io/weatherapp/",
-    text: "React, JSON"
+    text: "React, JSON",
+    git: "https://github.com/MarMMcin/weatherapp"
   },
   {
     id: 401,
     img: lottery,
     alt: "lottery",
     href: "https://marmmcin.github.io/lottery/",
-    text: "Pure JavaScript"
+    text: "Pure JavaScript",
+    git: "https://github.com/MarMMcin/lottery"
   },
   {
     id: 501,
     img: rzeszow,
     alt: "rzeszow",
     href: "https://marmmcin.github.io/rzeszowwczoraj/#/",
-    text: "React, Redux, Router, JSON, Bootstrap"
+    text: "React, Redux, Router, JSON, Bootstrap",
+    git: "https://github.com/MarMMcin/rzeszowwczoraj"
   },
   {
     id: 601,
     img: movies,
     alt: "movies",
     href: "https://marmmcin.github.io/MoviesApp",
-    text: "React, Redux, Router, JSON, Bootstrap"
+    text: "React, Redux, Router, JSON, Bootstrap",
+    git: "https://github.com/MarMMcin/MoviesApp"
   }
 ];
 export default { ProjectsImg };

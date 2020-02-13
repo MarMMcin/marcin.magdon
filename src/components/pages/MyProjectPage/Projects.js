@@ -70,7 +70,7 @@ class Skills extends Component {
           <StyledIcon
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/MarMMcin/addadvert"
+            href={project.git}
           >
             <i className="fab fa-github"></i>
           </StyledIcon>
