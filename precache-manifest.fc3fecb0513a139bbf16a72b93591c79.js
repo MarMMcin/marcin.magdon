@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a24d4f0f4bb70aa5f654e5fe2da5ab9",
+    "revision": "47d71ac71aa77ea59956262474f47a4f",
     "url": "/marcin.magdon/./index.html"
   },
   {
-    "revision": "c39a543791656b503a19",
+    "revision": "801e20fabb1c2f8a52b1",
     "url": "/marcin.magdon/./static/css/main.558ae7f6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marcin.magdon/./static/js/2.7c2220df.chunk.js"
   },
   {
-    "revision": "c39a543791656b503a19",
-    "url": "/marcin.magdon/./static/js/main.3fbc7609.chunk.js"
+    "revision": "801e20fabb1c2f8a52b1",
+    "url": "/marcin.magdon/./static/js/main.f0035f7f.chunk.js"
   },
   {
     "revision": "2dcc4022a1e8d53e8709",
